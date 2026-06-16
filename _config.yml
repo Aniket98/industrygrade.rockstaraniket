@@ -1,7 +1,8 @@
 title: Industry Grade
-description: Learning real-world engineering
+description: Real-World Engineering
 
 remote_theme: pages-themes/dinky@v0.2.0
+show_downloads: false
 
 plugins:
   - jekyll-remote-theme
